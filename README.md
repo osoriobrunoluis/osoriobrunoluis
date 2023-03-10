@@ -12,14 +12,14 @@ Oi! Sou o Bruno Luis, desenvolvedor fullstack Javascript focado em front-end. Go
 
 <picture>
 <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=osoriobrunoluis&show_ic o  ns=true&theme=tokyonight" 
+    srcset="https://github-readme-stats.vercel.app/api?username=bruno luis&show_ic o  ns=true&theme=tokyonight" 
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=osoriobrunoluis&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=bruno luis&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=osoriobrunoluis&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=bruno luis&show_icons=true" />
 </picture>
 
 
