@@ -1,25 +1,25 @@
-## Olá! eu sou Bruno Luiz   👋
+## Olá! eu sou Bruno Luis   👋
 
-Oi! Sou o Bruno Luiz, desenvolvedor fullstack Javascript focado em front-end. Gosto muito de CSS, JavaScript e React.
+Oi! Sou o Bruno Luis, desenvolvedor fullstack Javascript focado em front-end. Gosto muito de CSS, JavaScript e React.
 
 - 🚀 Atualmente, estou estudando no curso Full Stack da Kenzie Academy Brasil, o qual tem me proporcionado uma formação completa em todas as áreas do            desenvolvimento web.
 
 - 🌱 Estou constantemente aprimorando minhas habilidades como desenvolvedor, com foco em front-end, mas também dedicando tempo ao estudo de back-end.
 
-- 😄 Pronouns: ele/ele
+- 😄 Pronouns: ele/dele
 
 ##
 
 <picture>
 <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=Bruno-Luiz&show_ic o  ns=true&theme=tokyonight" 
+    srcset="https://github-readme-stats.vercel.app/api?username=osoriobrunoluis&show_ic o  ns=true&theme=tokyonight" 
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=Bruno-Luiz&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=osoriobrunoluis&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=Bruno-Luiz&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=osoriobrunoluis&show_icons=true" />
 </picture>
 
 
