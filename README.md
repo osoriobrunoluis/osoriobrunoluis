@@ -11,7 +11,6 @@ Olá! Meu nome é Bruno Luis e sou um desenvolvedor fullstack especializado em J
 ##
 <div>
   <a href="https://github.com/osoriobrunoluis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osoriobrunoluis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
      <div style="display: inline_block"><br>
   <img align="center" alt="Bru-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
