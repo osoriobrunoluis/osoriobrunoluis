@@ -1,12 +1,16 @@
-## Olá! eu sou Bruno Luis   👋
+## Olá! Eu sou Bruno Luis 👋
 
-Olá! Meu nome é Bruno Luis e sou um desenvolvedor fullstack especializado em Javascript com foco em front-end. Tenho paixão por criar experiências de usuário incríveis usando CSS, JavaScript, React e TypeScript.
+Sou desenvolvedor fullstack com foco em front-end, criando interfaces modernas, funcionais e centradas na experiência do usuário.
 
-- 🚀 Atualmente, estou estudando no curso Full Stack da Kenzie Academy Brasil, o qual tem me proporcionado uma formação completa em todas as áreas do            desenvolvimento web.
+Minha base está em JavaScript, React, TypeScript e CSS — mas o que realmente diferencia meu trabalho é minha visão além do código: venho da área da musicoterapia, o que me trouxe uma sensibilidade maior para comportamento, percepção e experiência humana.
 
-- 🌱 Estou constantemente aprimorando minhas habilidades como desenvolvedor, com foco em front-end, mas também dedicando tempo ao estudo de back-end.
+🚀 Atualmente, sigo aprofundando meus conhecimentos em desenvolvimento full stack, com formação pela Kenzie Academy Brasil.
 
-- 😄 Pronouns: ele/dele
+🌱 Estou em constante evolução, expandindo minhas habilidades tanto no front-end quanto no back-end, sempre buscando construir soluções práticas e bem estruturadas.
+
+🎯 Interesses: interfaces intuitivas, experiência do usuário e projetos com impacto real.
+
+😄 Pronomes: ele/dele
 
 ##
 <div>
