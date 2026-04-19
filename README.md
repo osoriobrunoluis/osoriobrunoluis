@@ -1,8 +1,7 @@
   ## Bruno Luiz                                                                                                                                                                
                                                                                                                                                                                
-  Desenvolvedor front-end formado pela Kenzie Academy Brasil. Musicoterapeuta por formação — trago para o desenvolvimento um olhar sensível para comportamento, percepção e    
-  experiência humana.                                                                                                                                                          
-                                                                                                                                                                               
+  Desenvolvedor front-end formado pela Kenzie Academy Brasil. Musicoterapeuta por formação — trago para o desenvolvimento um olhar sensível para comportamento, percepção e experiência humana.                                                                                                                                                          
+                                   
   Foco em sites profissionais, landing pages e sistemas web sob medida. Do layout ao código, com cuidado e intenção.                                                           
    
   **Portfólio →** [brunoluisportfolio.com.br](https://brunoluisportfolio.com.br/)        
