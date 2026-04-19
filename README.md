@@ -1,16 +1,11 @@
-## Olá! Eu sou Bruno Luis 👋
-
-Sou desenvolvedor fullstack com foco em front-end, criando interfaces modernas, funcionais e centradas na experiência do usuário.
-
-Minha base está em JavaScript, React, TypeScript e CSS — mas o que realmente diferencia meu trabalho é minha visão além do código: venho da área da musicoterapia, o que me trouxe uma sensibilidade maior para comportamento, percepção e experiência humana.
-
-🚀 Atualmente, sigo aprofundando meus conhecimentos em desenvolvimento full stack, com formação pela Kenzie Academy Brasil.
-
-🌱 Estou em constante evolução, expandindo minhas habilidades tanto no front-end quanto no back-end, sempre buscando construir soluções práticas e bem estruturadas.
-
-🎯 Interesses: interfaces intuitivas, experiência do usuário e projetos com impacto real.
-
-😄 Pronomes: ele/dele
+  ## Bruno Luiz                                                                                                                                                                
+                                                                                                                                                                               
+  Desenvolvedor front-end formado pela Kenzie Academy Brasil. Musicoterapeuta por formação — trago para o desenvolvimento um olhar sensível para comportamento, percepção e    
+  experiência humana.                                                                                                                                                          
+                                                                                                                                                                               
+  Foco em sites profissionais, landing pages e sistemas web sob medida. Do layout ao código, com cuidado e intenção.                                                           
+   
+  **Portfólio →** [brunoluisportfolio.com.br](https://brunoluisportfolio.com.br/)        
 
 ### Stack
 <div>
