@@ -24,10 +24,7 @@
      
  <a href="https://brunoluisportfolio.com.br/">
     <img src="https://img.shields.io/badge/Portfólio-0A0E1A?style=for-the-badge&logoColor=white" alt="Portfólio">
-  </a>                                                                                                                                                                         
-  <a href="https://www.linkedin.com/in/bruno-luiz-ozorio/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">                                                  
-  </a>                                                                                                                                                                         
+  </a>                                                                                                                                                                                           
   <a href="mailto:osorio.brunoluis@gmail.com">                                                                                                                                 
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">                                                           
   </a>            
